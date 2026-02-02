@@ -185,7 +185,7 @@ document.addEventListener('DOMContentLoaded', async function () {
         showChronoLoading('جاري التحقق من الرقم ...');
 
         // بدء العد التنازلي مع الخط
-        startChronoCountdown(15, 'contact.html');
+        startChronoCountdown(10, 'contact.html');
 
         try {
             // الحصول على معلومات الجهاز
